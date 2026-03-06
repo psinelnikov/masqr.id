@@ -54,7 +54,7 @@ Our documentation site is built with:
 
 ## License
 
-Copyright © 2024 Masqr.id. All rights reserved.
+Copyright © 2026 Masqr.id. All rights reserved.
 
 ---
 

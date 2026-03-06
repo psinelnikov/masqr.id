@@ -20,7 +20,7 @@ export default function HowItWorks() {
                 Define your campaign details in the dashboard:
               </p>
               <ul className="list-disc list-inside text-gray-600 space-y-2">
-                <li>Campaign name (e.g., "Summer Sale 2024")</li>
+                <li>Campaign name (e.g., "Summer Sale 2026")</li>
                 <li>Destination URL (where users land after clicking)</li>
                 <li>Maximum CPC (cost per click)</li>
                 <li>Total budget limit</li>
